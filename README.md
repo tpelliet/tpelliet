@@ -1,4 +1,12 @@
-### Hi there 👋
+![banner](/OKP4_banner.jpg)
+
+### Hi there 👋, I'm Théo Pelliet !
+
+<div align="center">
+<a href="https://www.linkedin.com/in/theo-pelliet/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <!--
 **tpelliet/tpelliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
