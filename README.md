@@ -1,5 +1,3 @@
-![banner](https://raw.githubusercontent.com/okp4/.github/main/profile/static/okp4-banner-v2.webp)
-
 ### Hi there 👋, I'm Théo Pelliet !
 
 <div align="center">
@@ -21,7 +19,7 @@ I am deep believer in the real-world coordination potential of blockchain. <br>
 I advocate societal change through interest alignment rather than compliance.
 
 #### Now
-Head of Ecosystem at OKP4, I lead blockchain & token-related designs, fundraising and business strategy.
+Head of Strategy at Axone, I lead blockchain & token-related designs, fundraising and business strategy.
 
 <!--
 **tpelliet/tpelliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
